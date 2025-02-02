@@ -88,7 +88,7 @@ export default function Home() {
           <div className="grid md:grid-cols-3 gap-8 mb-12">
             <div className="interactive-image">
               <Image
-                src="/placeholder.svg?height=200&width=200"
+                src="/img01.jpg"
                 alt="Python Basics"
                 width={200}
                 height={200}
@@ -98,7 +98,7 @@ export default function Home() {
             </div>
             <div className="interactive-image">
               <Image
-                src="/placeholder.svg?height=200&width=200"
+                src="/img02.jpg"
                 alt="Earn Badges"
                 width={200}
                 height={200}
@@ -108,7 +108,7 @@ export default function Home() {
             </div>
             <div className="interactive-image">
               <Image
-                src="/placeholder.svg?height=200&width=200"
+                src="/img03.jpg"
                 alt="Get Certified"
                 width={200}
                 height={200}
@@ -145,4 +145,3 @@ export default function Home() {
     </div>
   )
 }
-
